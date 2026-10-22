@@ -1,48 +1,52 @@
-🌟 Sonu's Portfolio Website
+# ✨ Sonu's Portfolio Website
+A personal portfolio showcasing my **skills, projects, education, and experience** across Software Testing, Test Automation, and Data Analytics.
 
-Welcome to my personal portfolio website! This project showcases my skills, projects, certifications, education, and interests.
+## 👋 About
+Welcome to my personal portfolio! This website highlights my technical skills, academic background, projects, and professional interests as an aspiring **Software Development Engineer in Test (SDET)** and Data Analytics enthusiast.
 
-🚀 About
-This portfolio is designed to provide a glimpse into my journey as an aspiring Software Development Engineer in Test (SDET) and Data Analytics enthusiast.
+## 🚀 Website Sections
+- **About Me** — Introduction and professional interests
+- **Projects** — Selected technical projects
+- **Certifications** — Courses and certifications
+- **Skills & Tools** — Technical skills and technologies
+- **Contact** — Get in touch
 
-Visitors can explore:
-👨‍💻 About Me
-🎓 Education
-💼 Projects
-📜 Certifications
-🛠 Skills & Tools
-📞 Contact Information
-📄 Resume
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, Tailwind CSS, JavaScript
+- **Design:** Responsive UI/UX and mobile-friendly layouts
+- **Deployment:** Netlify
 
-🛠 Tech Stack
-HTML5
-Tailwind CSS
-JavaScript
+## ⭐ Features
+- Responsive design for desktop and mobile devices
+- Modern, clean user interface
+- Smooth navigation between sections
+- Dedicated project showcase
+- Downloadable resume
+- Interactive website sections
 
-✨ Features
-Responsive Design
-Modern UI/UX
-Smooth Navigation
-Interactive Sections
-Project Showcase
-Downloadable Resume
-Mobile-Friendly Layout
+## 📁 Project Structure
 
-📂 Project Structure
-index.html • about.html • work.html • certi.html • extras.html • contact.html • work.html • script.js
+```text
+portfolio/
+├── index.html       # Home page
+├── about.html       # About me
+├── work.html        # Projects showcase
+├── certi.html       # Certifications
+├── extras.html      # Additional information
+├── contact.html     # Contact section
+└── script.js        # JavaScript functionality
+```
 
+## 🎯 Areas of Interest
+- Software Testing & Quality Assurance
+- Test Automation
+- API Testing
+- Data Analytics
+- Web Development
+- UI/UX Design
 
-🎯 Areas of Interest
-Software Testing
-Test Automation
-Quality Engineering
-Data Analytics
-Web Development
-UI/UX Design
+## 🌐 Live Demo
+**[Visit My Portfolio](https://digital-alienhabitat.netlify.app/)**
 
-🌐 Live Demo
-Visit the portfolio here:
-[digital-alienhabitat.netlify.app](https://digital-alienhabitat.netlify.app/)
-
-⭐ Acknowledgements
-Built with curiosity, caffeine, and countless debugging sessions ☕✨
+## 🙌 Acknowledgements
+Built with curiosity, creativity, and countless debugging sessions. ☕✨
