@@ -1,4 +1,4 @@
-🌟 Sonu's Portfolio Website
+<img width="1592" height="2268" alt="image" src="https://github.com/user-attachments/assets/0873f4b4-5592-4674-9cac-ac73c8f5a980" />🌟 Sonu's Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, certifications, education, and interests.
 
@@ -30,17 +30,19 @@ Mobile-Friendly Layout
 
 📂 Project Structure
 PortfolioWebsite/
-├── assets/
-│   ├── images/
-│   ├── pdf/
-│   └── style.css
-├── index.html
-├── about.html
-├── work.html
-├── certi.html
-├── extras.html
-├── contact.html
-└── script.js
+•index.html
+•about.html
+•work.html
+•certi.html
+•extras.html
+•contact.html
+•work.html
+•script.js
+•assets/
+•style.css
+•images/
+•pdf/
+
 
 🎯 Areas of Interest
 Software Testing
