@@ -52,7 +52,7 @@ UI/UX Design
 
 🌐 Live Demo
 Visit the portfolio here:
-digital-alienhabitat.netlify.app
+[digital-alienhabitat.netlify.app](https://digital-alienhabitat.netlify.app/)
 
 ⭐ Acknowledgements
 Built with curiosity, caffeine, and countless debugging sessions ☕✨
